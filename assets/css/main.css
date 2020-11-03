@@ -60,7 +60,11 @@ body {
 	transform: translate(-50%, -5%);
 }
 
-
+#project_image {
+	width: 100%;
+	height: auto;
+	margin-bottom: 10px;
+}
 
 ol, ul {
 	list-style: none;
